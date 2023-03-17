@@ -1,8 +1,6 @@
 body {
   background: black url("https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80") no-repeat fixed center;
   color: rgb(27, 126, 225);
-  width: 100vw;
-  height: 100vh;
 }
 
 .section {
@@ -11,18 +9,31 @@ body {
   text-align: center;
   width: 75vw;
   align-items: center;
-  margin: 0 auto;
+  margin: 5vh auto;
+  background: black;
+  border: 5px ridge gray;
+  border-radius: 8px;
+  height: 75vh;
+}
+
+#links {
+  display: flex;
+  position: fixed;
+  width: 80%;
+  margin: -5vh auto;
+  justify-self: center;
+  flex: 1;
   background: black;
   border: 5px ridge gray;
   border-radius: 8px;
 }
 
-#links {
+#links a {
   display: flex;
-  flex-direction: row;
-  align-content: space-around;
-  width: 100vw;
-  background: black;
-  border: 5px ridge gray;
-  border-radius: 8px;
+  flex: auto;
+  justify-content: space-around;
+}
+
+span {
+  color: aqua;
 }
