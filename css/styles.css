@@ -17,7 +17,8 @@ img {
   background: black;
   border: 5px ridge gray;
   border-radius: 8px;
-  height: 75vh;
+  height: fit-content;
+  padding-bottom: 1vh;
 }
 
 #links {
@@ -37,6 +38,21 @@ img {
   display: flex;
   flex: auto;
   justify-content: space-around;
+}
+
+#with-kiddos-pic {
+  padding-left: 40%;
+  float: right;
+}
+
+li {
+  text-align: left;
+}
+
+#row {
+  display: flex;
+  flex-direction: row;
+  width: 60%;
 }
 
 span {
