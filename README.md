@@ -20,7 +20,6 @@ _This page is a collection on information about me. I hope that prospective empl
 * _Clone down from my repository at https://github.com/CharlesBCookman/Week-1-Portfolio-Page_
 * _Open it in your own code editor, I used VA code_
 * _Open in a live server to view a local hosting of it_
-* _easy-to-understand_
 * _Or just visit the Github deployment page https://charlesbcookman.github.io/Week-1-Portfolio-Page/_
 
 _If you run into and trouble please contact me at CharlesBCookman@gmail.com_

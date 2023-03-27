@@ -1,5 +1,5 @@
 body {
-  background: black url("https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80") no-repeat fixed center;
+  background: black url("/assets/background.avif") no-repeat fixed center;
   color: rgb(27, 126, 225);
 }
 
@@ -19,13 +19,14 @@ body {
 #links {
   display: flex;
   position: fixed;
+  left: 9.5%;
   width: 80%;
   margin: -5vh auto;
   justify-self: center;
   flex: 1;
   background: black;
-  border: 5px ridge gray;
-  border-radius: 8px;
+  border: .5vw ridge gray;
+  border-radius: .5vw;
 }
 
 #links a {
