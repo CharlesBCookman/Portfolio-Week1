@@ -1,5 +1,5 @@
 body {
-  background: black url("/assets/background.avif") no-repeat fixed center;
+  background: black url("assets/Background.avif") no-repeat fixed center;
   color: rgb(27, 126, 225);
 }
 
