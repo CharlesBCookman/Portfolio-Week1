@@ -18,15 +18,13 @@ _This page is a collection on information about me. I hope that prospective empl
 ## Setup/Installation Requirements
 
 * _Clone down from my repository at https://github.com/CharlesBCookman/Week-1-Portfolio-Page_
-* _Open it in your own code editor, I used VA code_
-* _Open in a live server to view a local hosting of it_
-* _Or just visit the Github deployment page https://charlesbcookman.github.io/Week-1-Portfolio-Page/_
+* _Open index.html file from directory folder in your web browser._
+* _Or just visit the Github deployment page https://charlesbcookman.github.io/Portfolio-Week1/_
 
 _If you run into and trouble please contact me at CharlesBCookman@gmail.com_
 
 ## Known Bugs
-
-* _Backgroud isn't loading on gh-pages deployment page_
+_None at this time_
 
 
 ## License
